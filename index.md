@@ -7,3 +7,8 @@
 $ mkdir hello-world && cd $_
 $ ng new !$ --directory ./
 ```
+
+## to-do list
+- [x] foo
+- [x] bar
+- [ ] baz
